@@ -1,3 +1,4 @@
+```rust
 let bio = Bio{
 
     name: "Afonso Fonseca",
@@ -8,10 +9,11 @@ let bio = Bio{
     
     from: "Portugal",
     
-    fav_foods = [ "Oreo", "Bitoque", "Vanilla Ice Cream", "Fruit Salad" ],
+    fav_foods: [ "Oreo", "Bitoque", "Vanilla Ice Cream", "Fruit Salad" ],
     
-    fav_languages = [ "Rust", "Kotlin" ],
+    fav_languages: [ "Rust", "Kotlin" ],
     
-    likes = [ "Music", "Catppuccin", "Linux", "Anime" ]
+    likes: [ "Music", "Catppuccin", "Linux", "Anime" ]
     
 }
+```

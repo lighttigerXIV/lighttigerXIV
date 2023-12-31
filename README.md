@@ -1,7 +1,7 @@
 ### About Me
 
 ```kotlin
-val bio = Bio(
+return Bio(
     name = "Afonso Fonseca",
     nickname = "lighttigerXIV",
     age = 22,

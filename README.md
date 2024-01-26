@@ -15,10 +15,6 @@ return Bio(
 ### GitHub Stats
 <div>
     
-![lighttigerxiv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lighttigerxiv&theme=dracula&hide_border=true)
-</div>
-<div>
-    
 ![lighttigerxiv's Stats](https://github-readme-stats.vercel.app/api?username=lighttigerxiv&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 </div>
 

@@ -1,15 +1,18 @@
 ### About Me
 
-```kotlin
-return Bio(
-    name = "Afonso Fonseca",
-    nickname = "lighttigerXIV",
-    age = 22,
-    favouriteFoods = listOf("Oreo, Fruit Salad", "Ice Cream", "Bitoque", "Lasagna"),
-    favouriteLanguages = listOf("Kotlin", "Rust", "TypeScript"),
-    likes = listOf("Anime", "Programming", "Music", "Drawing"),
-    references = "https://lighttigerxiv.github.io/"
-)
+```json
+{
+    "id": 14
+    "username": "lighttigerXIV",
+    "level": 22,
+    "host": "Portugal 🇵🇹",
+    "inventory":{
+        "weapons": ["Rust", "Kotlin", "Typescript"],
+        "food": ["Coffee", "Fanta" ,"Oreo", "Ice Cream"],
+        "realms": ["Anime", "Programming", "Music"]
+    },
+    "achievements": "https://lighttigerxiv.github.io/",
+}
 ```
 
 ### GitHub Stats

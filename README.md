@@ -8,9 +8,9 @@
     "host": "Portugal 🇵🇹",
     "inventory":{
         "weapons": ["Rust", "Kotlin", "Typescript"],
-        "food": ["Coffee", "Fanta" ,"Oreo", "Ice Cream"],
-        "realms": ["Anime", "Programming", "Music"]
+        "food": ["Coffee", "Fanta" ,"Oreo", "Ice Cream"]
     },
+    "realms": ["Anime", "Programming", "Music"],
     "achievements": "https://lighttigerxiv.github.io/",
 }
 ```

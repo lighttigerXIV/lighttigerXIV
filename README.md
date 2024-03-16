@@ -1,18 +1,12 @@
 ### About Me
 
-```json
-{
-    "id": 14
-    "username": "lighttigerXIV",
-    "level": 22,
-    "host": "Portugal 🇵🇹",
-    "inventory":{
-        "weapons": ["Rust", "Kotlin", "Typescript"],
-        "food": ["Coffee", "Fanta" ,"Oreo", "Ice Cream"]
-    },
-    "realms": ["Anime", "Programming", "Music"],
-    "achievements": "https://lighttigerxiv.github.io/",
-}
+```toml
+[Bio]
+age = 22
+country = "🇵🇹 Portugal"
+fav-langs = ["Rust", "Kotlin"]
+hoobies = ["Anime", "Programming", "Music"]
+website = "https://lighttigerxiv.github.io/"
 ```
 
 ### GitHub Stats

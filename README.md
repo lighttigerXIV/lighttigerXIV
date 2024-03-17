@@ -4,7 +4,7 @@ age = 22
 country = "🇵🇹 Portugal"
 fav-langs = ["Rust", "Kotlin"]
 hoobies = ["Anime", "Programming", "Music"]
-website = "https://lighttigerxiv.github.io/"
+website = "https://lighttigerxiv.vercel.app/"
 ```
 
 

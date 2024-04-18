@@ -1,11 +1,7 @@
-```
-             ／＞　 フ
-           | 　_　_| 
-          ／` ミ＿xノ 
-         /　　　　 |
-        /　 ヽ　　 ﾉ
-        │　　|　|　|
-    ／￣|　　 |　|　|
-    (￣ヽ＿_ヽ_)__)
-    ＼二)
+```json
+{
+    "age": 23,
+    "country": "🇵🇹 Portugal",
+    "description": "Silly Programmer :P"
+}
 ```

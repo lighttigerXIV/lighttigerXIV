@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="pfp.webp" width="100">
+
 ## LighttigerXIV
 </div>
 
@@ -26,3 +28,5 @@ This are my better projects:
 [Whiskers Launcher](https://github.com/lighttigerXIV/whiskers-launcher) - A keyboard app launcher for Linux and Windows and that supports extensions. 
 
 [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier) - A gui/cli app to apply catppuccin luts to images.
+
+<img src="honest-work.webp" width="300">

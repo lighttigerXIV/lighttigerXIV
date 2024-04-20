@@ -21,7 +21,7 @@ When i am not coding (which is rare) i like to watch animes, youtube or just lis
 
 ![Last Heard Song](https://lastfm-recently-played.vercel.app/api?user=lighttigerXIV&count=1&bg_color=0E0600)
 
-These are my better projects:
+These are my best projects:
 
 [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with Material You in mind.
 

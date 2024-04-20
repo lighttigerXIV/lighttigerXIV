@@ -17,7 +17,7 @@ Hi, i am a portuguese programmer. Currently i am taking a computer science degre
 
 I pretty much have coded for everything, android, ios, windows, linux, webdev, you name it, but the most fullfilling field and that i truly enjoy working is Android.
 
-When i am not coding (which is rare) i like to watch animes, youtube or just listen to music. Btw, this is my last heard song:
+When i am not coding (which is rare) i like to watch animes, youtube or just listen to music. Btw, these is my last heard song:
 
 ![Last Heard Song](https://lastfm-recently-played.vercel.app/api?user=lighttigerXIV&count=1&bg_color=0E0600)
 

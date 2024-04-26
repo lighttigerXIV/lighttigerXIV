@@ -28,3 +28,5 @@ These are my best projects:
 [Whiskers Launcher](https://github.com/lighttigerXIV/whiskers-launcher) - A keyboard app launcher for Linux and Windows and that supports extensions. 
 
 [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier) - A gui/cli app to apply catppuccin luts to images.
+
+[Whiskers Color Scheme](https://github.com/Whiskers-Color-Scheme) - A theme

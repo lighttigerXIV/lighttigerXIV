@@ -1,32 +1,29 @@
-<div align="center">
+<p float="left">
+  <img src="readme_cover.webp" width="250" align="left">
+  <p float="left">
+    <samp>
+    <br>
+    <br>
+    <br>
+Hi. I'm lighttigerXIV. I am 23y old and 🇵🇹 Portuguese (siiiiiiim)
 
-<img src="pfp.webp" width="100">
+I like to 🖥️ code, 🎶 listen to music and 🇯🇵 watch anime. (Basically a nerd)
 
-## LighttigerXIV
-</div>
+My favourite languages are 🦀 Rust and 🤖 Kotlin.
 
-```json
-{
-    "age": 23,
-    "country": "🇵🇹 Portugal",
-    "description": "Silly Programmer :P"
-}
-```
-
-Hi, i am a portuguese programmer. Currently i am taking a computer science degree at ESTGOH.
-
-I pretty much have coded for everything, android, ios, windows, linux, webdev, you name it, but the most fullfilling field and that i truly enjoy working is Android.
-
-When i am not coding (which is rare) i like to watch animes, youtube or just listen to music. Btw, this is my last heard song:
-
-![Last Heard Song](https://lastfm-recently-played.vercel.app/api?user=lighttigerXIV&count=1&bg_color=0E0600)
-
-These are my best projects:
-
+My preferred platform to code is Android which gave me the curiosity to dive into the world of programming.
+  
+This are some of my best projects:
+      
 [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with Material You in mind.
 
 [Whiskers Launcher](https://github.com/lighttigerXIV/whiskers-launcher) - A keyboard app launcher for Linux and Windows and that supports extensions. 
 
 [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier) - A gui/cli app to apply catppuccin luts to images.
 
-[Whiskers Color Scheme](https://github.com/Whiskers-Color-Scheme) - A theme
+[Whiskers Color Scheme](https://github.com/Whiskers-Color-Scheme) - A theme based on my cats
+
+[Whiskers Apps](https://github.com/Whiskers-Apps) - A organization with apps integrated with my color scheme
+    </samp>
+  </p>
+</p>

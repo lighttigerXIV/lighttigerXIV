@@ -3,8 +3,6 @@
   <p float="left">
     <samp>
     <br>
-    <br>
-    <br>
 Hi. I'm lighttigerXIV. I am 23y old and 🇵🇹 Portuguese (siiiiiiim)
 
 I like to 🖥️ code, 🎶 listen to music and 🇯🇵 watch anime. (Basically a nerd)

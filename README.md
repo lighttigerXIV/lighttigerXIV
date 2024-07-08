@@ -21,7 +21,7 @@ This are some of my best projects:
 
 [Whiskers Color Scheme](https://github.com/Whiskers-Color-Scheme) - A theme based on my cats
 
-[Whiskers Apps](https://github.com/Whiskers-Apps) - A organization with apps integrated with my color scheme
+[Whiskers Apps](https://github.com/Whiskers-Apps) - An organization with apps integrated with my color scheme
     </samp>
   </p>
 </p>

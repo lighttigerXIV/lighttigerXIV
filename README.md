@@ -3,6 +3,8 @@
   <p float="left">
     <samp>
     <br>
+
+![](https://komarev.com/ghpvc/?username=lighttigerxiv&color=A87B0A)
       
 Hi. I'm lighttigerXIV. I am 23y old and 🇵🇹 Portuguese
 

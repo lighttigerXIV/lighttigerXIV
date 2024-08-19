@@ -10,13 +10,13 @@
     <br>
     <br>
       
-Hi. I'm lighttigerXIV. I am 23y old and 🇵🇹 Portuguese
+Hi. I'm lighttigerXIV. I am 23y old from Portugal 🇵🇹
 
-I like to 🖥️ code, 🎶 listen to music and 🇯🇵 watch anime. (Basically a nerd)
+I like to `code`, listen to `music` and watch `anime`.
 
-My favourite languages are 🦀 Rust and 🤖 Kotlin.
+My favourite programming languages are `Kotlin 🤖` and `Rust 🦀`.
 
-My preferred platform to code is Android which gave me the curiosity to dive into the world of programming.
+If you research my projects you will find mostly code for `Android 💚`
     </samp>
   </p>
 </p>
